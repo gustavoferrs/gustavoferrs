@@ -41,7 +41,7 @@ I'm currently building a strong portfolio to apply for **Junior Software Enginee
 ---
 
 ## 📬 Contact
-**Email:** gustavoferrs09@gmail.com
+[![Email](https://img.shields.io/badge/Email-gustavoferrs09%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoferrs09@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavoferrs/)
 
