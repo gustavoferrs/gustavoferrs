@@ -32,11 +32,12 @@ I'm currently building a strong portfolio to apply for **Junior Software Enginee
 
 ---
 
-## 📈 Goals
-- Get my first **Junior Software Engineer Remote** role
-- Work with Java/Angular in a professional environment
-- Build well-structured, high-quality projects
-
+## 🎯 Current Focus
+- Design patterns
+- Backend architecture
+- Testing best practices
+- Docker + deploy pipelines
+- Building a strong portfolio
 
 ---
 
